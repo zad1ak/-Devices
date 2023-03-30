@@ -14,5 +14,5 @@
   накопители: <br>
     4шт Hp MM0500FBFVQ (SAS)  <br>
     4шт Seagate Constellation.2 (ST91000640NS)(SATA) <br>
-1 <br>
+ <br>
   
